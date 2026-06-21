@@ -1,0 +1,1144 @@
+{
+	"markers": [
+		{
+			"position": [
+				36.225677,
+				138.109168
+			],
+			"title": "美ヶ原山頂",
+			"URL": "https://www.youtube.com/embed/PN-KlpQwuH0",
+			"iconClass": "fa-solid fa-mountain",
+			"platform": "youtube",
+			"pref":"長野県",
+			"src": ""
+		},
+		{
+			"position": [
+				36.577352,
+				137.596307
+			],
+			"title": "立山室堂",
+			"URL": "https://www.youtube.com/embed/rWO9PXZwahM",
+			"iconClass": "fa-solid fa-mountain",
+			"platform": "youtube",
+			"pref":"富山県",
+			"src": ""
+		},
+		{
+			"position": [
+				32.885631,
+				131.052023
+			],
+			"title": "阿蘇山",
+			"URL": "https://www.youtube.com/embed/aVGYOlIzV0A",
+			"iconClass": "fa-solid fa-mountain",
+			"platform": "youtube",
+			"pref":"熊本県",
+			"src": ""
+		},
+		{
+			"position": [
+				36.248673,
+				137.638264
+			],
+			"title": "上高地",
+			"URL": "https://www.youtube.com/embed/Iv2VUE_UhRQ",
+			"iconClass": "fa-solid fa-mountain",
+			"platform": "youtube",
+			"pref":"長野県",
+			"src": ""
+		},
+		{
+			"position": [
+				35.3734723,
+				136.3607167
+			],
+			"title": "グリーンパーク山東",
+			"URL": "https://www.youtube.com/embed/II18TejgjMw",
+			"iconClass": "fa-solid fa-mountain",
+			"platform": "youtube",
+			"pref":"滋賀県",
+			"src": ""
+		},
+		{
+			"position": [
+				31.575388,
+				130.561263
+			],
+			"title": "桜島と甲突川河口",
+			"URL": "https://www.youtube.com/embed/I2rBNQJaoa0",
+			"iconClass": "fa-solid fa-mountain",
+			"platform": "youtube",
+			"pref":"鹿児島県",
+			"src": ""
+		},
+		{
+			"position": [
+				34.6812788,
+				135.1856157
+			],
+			"title": "神戸メリケンパーク",
+			"URL": "https://www.youtube.com/embed/AU_2zfM4m68",
+			"iconClass": "bi bi-buildings-fill",
+			"platform": "youtube",
+			"pref":"兵庫県",
+			"src": ""
+		},
+		{
+			"position": [
+				34.693393,
+				135.496708
+			],
+			"title": "淀屋橋",
+			"URL": "https://www.youtube.com/embed/Kuqke5LvI2Y",
+			"iconClass": "bi bi-buildings-fill",
+			"platform": "youtube",
+			"pref":"大阪府",
+			"src": ""
+		},
+		{
+			"position": [
+				35.659664,
+				139.759321
+			],
+			"title": "汐留",
+			"URL": "https://www.youtube.com/embed/kmo17mb5LvI",
+			"iconClass": "bi bi-buildings-fill",
+			"platform": "youtube",
+			"pref":"東京都",
+			"src": ""
+		},
+		{
+			"position": [
+				41.7516905,
+				140.6869786
+			],
+			"title": "函館山",
+			"URL": "https://www.youtube.com/embed/s--MDmshT3I",
+			"iconClass": "fa-solid fa-mountain",
+			"platform": "youtube",
+			"pref":"北海道",
+			"src": ""
+		},		
+		{
+			"title": "国道423号新御堂筋",
+			"position": [
+				34.714414,
+				135.500286
+			],
+			"URL": "https://www.youtube.com/embed/3gqzHOdDKp0",
+			"iconClass": "fas fa-road",
+			"platform": "youtube",
+			"pref": "大阪府",
+			"src": ""
+		},
+		{
+			"title": "関西国際空港第1ターミナル",
+			"position": [
+				34.440639,
+				135.257768
+			],
+			"URL": "https://www.youtube.com/embed/voUiGFEWhk0",
+			"iconClass": "fa-solid fa-plane",
+			"platform": "youtube",
+			"pref": "大阪府",
+			"src": ""
+		},
+		{
+			"title": "あべのハルカス・通天閣",
+			"position": [
+				34.677719,
+				135.415646
+			],
+			"URL": "https://www.youtube.com/embed/GCxs-DhQs08",
+			"iconClass": "bi bi-buildings-fill",
+			"platform": "youtube",
+			"pref": "大阪府",
+			"src": ""
+		},
+		{
+			"title": "明石海峡大橋",
+			"position": [
+				34.634404,
+				135.034457
+			],
+			"URL": "https://www.youtube.com/embed/5QE2MzpoTow",
+			"iconClass": "fas fa-road",
+			"platform": "youtube",
+			"pref": "兵庫県",
+			"src": ""
+		},
+		{
+			"title": "姫路城",
+			"position": [
+				34.839449,
+				134.693905
+			],
+			"URL": "https://www.youtube.com/watch?v=9aH6UMViFr8",
+			"iconClass": "fa-city",
+			"platform": "youtube",
+			"pref": "兵庫県",
+			"src": ""
+		},
+		{
+			"title": "白良浜",
+			"position": [
+				33.676472,
+				135.337689
+			],
+			"URL": "https://www.youtube.com/embed/Bv6pTaelhyk",
+			"iconClass": "fas fa-umbrella-beach",
+			"platform": "youtube",
+			"pref": "和歌山県",
+			"src": ""
+		},
+		{
+			"title": "名古屋駅西口（太閤通口）",
+			"position": [
+				35.172014,
+				136.87714
+			],
+			"URL": "https://www.youtube.com/embed/cJd9IIu2vio",
+			"iconClass": "bi bi-buildings-fill",
+			"platform": "youtube",
+			"pref": "愛知県",
+			"src": ""
+		},
+		{
+			"title": "飛騨高山・アルプス展望公園スカイパーク",
+			"position": [
+				36.146298,
+				137.240526
+			],
+			"URL": "https://www.youtube.com/embed/7ZH5lHNNjKs",
+			"iconClass": "fa-solid fa-mountain",
+			"platform": "youtube",
+			"pref": "岐阜県",
+			"src": ""
+		},
+		{
+			"title": "福岡空港",
+			"position": [
+				33.597186,
+				130.447437
+			],
+			"URL": "https://www.youtube.com/embed/CzgSFUAbE9s",
+			"iconClass": "fa-solid fa-plane",
+			"platform": "youtube",
+			"pref": "福岡県",
+			"src": ""
+		},
+		{
+			"title": "博多港・博多ポートタワー",
+			"position": [
+				33.603093,
+				130.402352
+			],
+			"URL": "https://www.youtube.com/embed/EkH8SihBx9E",
+			"iconClass": "bi bi-buildings-fill",
+			"platform": "youtube",
+			"pref": "福岡県",
+			"src": ""
+		},
+		{
+			"title": "JR博多駅前",
+			"position": [
+				33.590727,
+				130.418282
+			],
+			"URL": "https://www.youtube.com/embed/E5R5PPezu7k",
+			"iconClass": "bi bi-buildings-fill",
+			"platform": "youtube",
+			"pref": "福岡県",
+			"src": ""
+		},
+		{
+			"title": "福岡三越前・福岡県道602号",
+			"position": [
+				33.590884,
+				130.398906
+			],
+			"URL": "https://www.youtube.com/embed/p326sZfmwHM",
+			"iconClass": "bi bi-buildings-fill",
+			"platform": "youtube",
+			"pref": "福岡県",
+			"src": ""
+		},
+		{
+			"title": "レインボーブリッジ一般部・東京湾",
+			"position": [
+				35.633581,
+				139.752567
+			],
+			"URL": "https://www.youtube.com/embed/_k-5U7IeK8g",
+			"iconClass": "bi bi-buildings-fill",
+			"platform": "youtube",
+			"pref": "東京都",
+			"src": ""
+		},
+		{
+			"title": "品川区内全景・下神明駅付近",
+			"position": [
+				35.609688,
+				139.729653
+			],
+			"URL": "https://www.youtube.com/watch?v=uiq0qWpHJpA",
+			"iconClass": "bi bi-buildings-fill",
+			"platform": "youtube",
+			"pref": "東京都",
+			"src": ""
+		},
+		{
+			"title": "二子玉川ライズ",
+			"position": [
+				35.610894,
+				139.628354
+			],
+			"URL": "https://www.youtube.com/embed/fndY3LREfdE",
+			"iconClass": "bi bi-buildings-fill",
+			"platform": "youtube",
+			"pref": "東京都",
+			"src": ""
+		},
+		{
+			"title": "東京タワー",
+			"position": [
+				35.658079,
+				139.744005
+			],
+			"URL": "https://www.youtube.com/embed/nu6NE55_X7A",
+			"iconClass": "bi bi-buildings-fill",
+			"platform": "youtube",
+			"pref": "東京都",
+			"src": ""
+		},
+		{
+			"title": "渋谷スクランブル交差点",
+			"position": [
+				35.659665,
+				139.700223
+			],
+			"URL": "https://www.youtube.com/embed/tujkoXI8rWM",
+			"iconClass": "bi bi-buildings-fill",
+			"platform": "youtube",
+			"pref": "東京都",
+			"src": ""
+		},
+		{
+			"title": "JR帯広駅前",
+			"position": [
+				42.917125,
+				143.20265
+			],
+			"URL": "https://youtu.be/eKNqWXgCE1g",
+			"iconClass": "fa-solid fa-train",
+			"platform": "youtube",
+			"pref": "北海道",
+			"src": ""
+		},
+		{
+			"title": "札幌もいわ山ロープウェイ山頂",
+			"position": [
+				43.022172,
+				141.322424
+			],
+			"URL": "https://youtu.be/4jHWPig4rL8",
+			"iconClass": "fa-solid fa-mountain",
+			"platform": "youtube",
+			"pref": "北海道",
+			"src": ""
+		},
+		{
+			"title": "札幌市中央区西9丁目",
+			"position": [
+				43.063964,
+				141.345481
+			],
+			"URL": "https://youtu.be/WUN-183KH7M",
+			"iconClass": "bi bi-buildings-fill",
+			"platform": "youtube",
+			"pref": "北海道",
+			"src": ""
+		},
+		{
+			"title": "大通公園・さっぽろテレビ塔",
+			"position": [
+				43.063067,
+				141.355777
+			],
+			"URL": "https://youtu.be/RBHsITnIoI0",
+			"iconClass": "bi bi-buildings-fill",
+			"platform": "youtube",
+			"pref": "北海道",
+			"src": ""
+		},
+		{
+			"title": "小樽天狗山",
+			"position": [
+				43.171971,
+				140.97246
+			],
+			"URL": "https://youtu.be/X5Ew8btlVbQ",
+			"iconClass": "fa-solid fa-mountain",
+			"platform": "youtube",
+			"pref": "北海道",
+			"src": ""
+		},
+		{
+			"title": "きじひき高原",
+			"position": [
+				41.943974,
+				140.61643
+			],
+			"URL": "https://youtu.be/0AkMnQW4XOk",
+			"iconClass": "fa-solid fa-mountain",
+			"platform": "youtube",
+			"pref": "北海道",
+			"src": ""
+		},
+		{
+			"title": "国道279号 函館山",
+			"position": [
+				41.764931,
+				140.719856
+			],
+			"URL": "https://youtu.be/lpYBM_lHfjs",
+			"iconClass": "fa-solid fa-mountain",
+			"platform": "youtube",
+			"pref": "北海道",
+			"src": ""
+		},
+		{
+			"title": "JR青森駅東口",
+			"position": [
+				40.826885,
+				140.735
+			],
+			"URL": "https://youtu.be/qMs_uynkM54",
+			"iconClass": "fa-solid fa-train",
+			"platform": "youtube",
+			"pref": "青森県",
+			"src": ""
+		},
+		{
+			"title": "青森空港駐機場滑走路",
+			"position": [
+				40.737717,
+				140.688201
+			],
+			"URL": "https://youtu.be/5Mane7Cdqzk",
+			"iconClass": "fa-solid fa-plane",
+			"platform": "youtube",
+			"pref": "青森県",
+			"src": ""
+		},
+		{
+			"title": "いわて花巻空港",
+			"position": [
+				39.421561,
+				141.137817
+			],
+			"URL": "https://youtu.be/XHnrgK4sEDE",
+			"iconClass": "fa-solid fa-plane",
+			"platform": "youtube",
+			"pref": "岩手県",
+			"src": ""
+		},
+		{
+			"title": "秋田空港・秋田駅前",
+			"position": [
+				39.612025,
+				140.219036
+			],
+			"URL": "https://youtu.be/-eAK0uOvtjI",
+			"iconClass": "fa-solid fa-train",
+			"platform": "youtube",
+			"pref": "秋田県",
+			"src": ""
+		},
+		{
+			"title": "秋田港・ポートタワーセリオン",
+			"position": [
+				39.716853,
+				140.084172
+			],
+			"URL": "https://youtu.be/J7_rWq_Owgc",
+			"iconClass": "fa-solid fa-ship",
+			"platform": "youtube",
+			"pref": "秋田県",
+			"src": ""
+		},
+		{
+			"title": "山形市内",
+			"position": [
+				38.256462,
+				140.338797
+			],
+			"URL": "https://youtu.be/J56hFFHTfls",
+			"iconClass": "bi bi-buildings-fill",
+			"platform": "youtube",
+			"pref": "山形県",
+			"src": ""
+		},
+		{
+			"title": "国道13号 信夫通りパーキング付近",
+			"position": [
+				37.755941,
+				140.46394
+			],
+			"URL": "https://youtu.be/3MM0yX3QPX4",
+			"iconClass": "fas fa-road",
+			"platform": "youtube",
+			"pref": "福島県",
+			"src": ""
+		},
+		{
+			"title": "仙台市街地",
+			"position": [
+				38.25316,
+				140.85699
+			],
+			"URL": "https://youtu.be/Ado_7_DMTdc",
+			"iconClass": "bi bi-buildings-fill",
+			"platform": "youtube",
+			"pref": "宮城県",
+			"src": ""
+		},
+		{
+			"title": "仙台駅西口周辺",
+			"position": [
+				38.258962,
+				140.881294
+			],
+			"URL": "https://youtu.be/AinAZQgQp_s",
+			"iconClass": "fa-solid fa-train",
+			"platform": "youtube",
+			"pref": "宮城県",
+			"src": ""
+		},
+		{
+			"title": "仙台駅仙台マークワン屋上",
+			"position": [
+				38.262008,
+				140.881537
+			],
+			"URL": "https://youtu.be/2_FFyGW-bx8",
+			"iconClass": "bi bi-buildings-fill",
+			"platform": "youtube",
+			"pref": "宮城県",
+			"src": ""
+		},
+		{
+			"title": "メディアシップ20階",
+			"position": [
+				37.918608,
+				139.056066
+			],
+			"URL": "https://youtu.be/npUguwCxiwI",
+			"iconClass": "bi bi-buildings-fill",
+			"platform": "youtube",
+			"pref": "新潟県",
+			"src": ""
+		},
+		{
+			"title": "富山駅北",
+			"position": [
+				36.710822,
+				137.210525
+			],
+			"URL": "https://youtu.be/brLYHa4JzPM",
+			"iconClass": "fa-solid fa-train",
+			"platform": "youtube",
+			"pref": "富山県",
+			"src": ""
+		},
+		{
+			"title": "清水寺森林公園",
+			"position": [
+				36.145346,
+				137.845567
+			],
+			"URL": "https://youtu.be/ObQ6QOJcTYc",
+			"iconClass": "fa-solid fa-mountain",
+			"platform": "youtube",
+			"pref": "長野県",
+			"src": ""
+		},
+		{
+			"title": "金沢城公園・三の丸広場",
+			"position": [
+				36.563547,
+				136.660061
+			],
+			"URL": "https://youtu.be/DI1xcOEH8v8",
+			"iconClass": "bi bi-buildings-fill",
+			"platform": "youtube",
+			"pref": "石川県",
+			"src": ""
+		},
+		{
+			"title": "石川県庁から北陸自動車道",
+			"position": [
+				36.594671,
+				136.623474
+			],
+			"URL": "https://youtu.be/ZSR-rgjG1Ok",
+			"iconClass": "fas fa-road",
+			"platform": "youtube",
+			"pref": "石川県",
+			"src": ""
+		},
+		{
+			"title": "福井市内",
+			"position": [
+				36.055541,
+				136.215928
+			],
+			"URL": "https://youtu.be/PqpzIJ0wueo",
+			"iconClass": "bi bi-buildings-fill",
+			"platform": "youtube",
+			"pref": "福井県",
+			"src": ""
+		},
+		{
+			"title": "福井駅西口",
+			"position": [
+				36.063918,
+				136.223141
+			],
+			"URL": "https://youtu.be/IrXQ8JID0Gs",
+			"iconClass": "fa-solid fa-train",
+			"platform": "youtube",
+			"pref": "福井県",
+			"src": ""
+		},
+		{
+			"title": "北八ヶ岳ロープウェイ山頂駅",
+			"position": [
+				36.078621,
+				138.322496
+			],
+			"URL": "https://youtu.be/5wIEBs0sStI",
+			"iconClass": "fa-solid fa-mountain",
+			"platform": "youtube",
+			"pref": "長野県",
+			"src": ""
+		},
+		{
+			"title": "杖突峠より穂高連峰",
+			"position": [
+				35.976734,
+				138.130048
+			],
+			"URL": "https://youtu.be/1v8Ln286PcE",
+			"iconClass": "fa-solid fa-mountain",
+			"platform": "youtube",
+			"pref": "長野県",
+			"src": ""
+		},
+		{
+			"title": "上田駅お城口",
+			"position": [
+				36.397571,
+				138.250322
+			],
+			"URL": "https://youtu.be/rNQoJqymsKQ",
+			"iconClass": "fa-solid fa-train",
+			"platform": "youtube",
+			"pref": "長野県",
+			"src": ""
+		},
+		{
+			"title": "草津温泉湯畑",
+			"position": [
+				36.621792,
+				138.593106
+			],
+			"URL": "https://youtu.be/GrEEoEmmrKs",
+			"iconClass": "fa-solid fa-mountain",
+			"platform": "youtube",
+			"pref": "群馬県",
+			"src": ""
+		},
+		{
+			"title": "甲府市街",
+			"position": [
+				35.64,
+				138.548308
+			],
+			"URL": "https://youtu.be/i-5fynOR1G8",
+			"iconClass": "bi bi-buildings-fill",
+			"platform": "youtube",
+			"pref": "山梨県",
+			"src": ""
+		},
+		{
+			"title": "富士急行線・河口湖駅周辺",
+			"position": [
+				35.498822,
+				138.768418
+			],
+			"URL": "https://youtu.be/9d9DqBZmjwk",
+			"iconClass": "fa-solid fa-train",
+			"platform": "youtube",
+			"pref": "山梨県",
+			"src": ""
+		},
+		{
+			"title": "高崎市内・高崎駅周辺",
+			"position": [
+				36.324374,
+				139.011844
+			],
+			"URL": "https://youtu.be/YZcRxaKmvU4",
+			"iconClass": "fa-solid fa-train",
+			"platform": "youtube",
+			"pref": "群馬県",
+			"src": ""
+		},
+		{
+			"title": "千葉市内・京成電鉄千葉中央駅前",
+			"position": [
+				35.608062,
+				140.119072
+			],
+			"URL": "https://youtu.be/vaifJWjqu0k",
+			"iconClass": "fa-solid fa-train",
+			"platform": "youtube",
+			"pref": "千葉県",
+			"src": ""
+		},
+		{
+			"title": "成田空港内滑走路",
+			"position": [
+				35.771987,
+				140.39285
+			],
+			"URL": "https://youtu.be/OuCbntsMsWY",
+			"iconClass": "fa-solid fa-plane",
+			"platform": "youtube",
+			"pref": "千葉県",
+			"src": ""
+		},
+		{
+			"title": "国道1号・JR線・東神奈川駅周辺",
+			"position": [
+				35.482816,
+				139.63737
+			],
+			"URL": "https://youtu.be/MQFsHqz96mY",
+			"iconClass": "fa-solid fa-train",
+			"platform": "youtube",
+			"pref": "神奈川県",
+			"src": ""
+		},
+		{
+			"title": "馬堀海岸",
+			"position": [
+				35.26366,
+				139.707602
+			],
+			"URL": "https://youtu.be/_s_M1EPmWuI",
+			"iconClass": "fa-solid fa-ship",
+			"platform": "youtube",
+			"pref": "神奈川県",
+			"src": ""
+		},
+		{
+			"title": "段葛",
+			"position": [
+				35.320445,
+				139.552586
+			],
+			"URL": "https://youtu.be/SesZpiywyXk",
+			"iconClass": "fas fa-road",
+			"platform": "youtube",
+			"pref": "神奈川県",
+			"src": ""
+		},
+		{
+			"title": "片瀬海岸東浜から江ノ島",
+			"position": [
+				35.307923,
+				139.486198
+			],
+			"URL": "https://youtu.be/ywXRfMLuw78",
+			"iconClass": "fa-solid fa-ship",
+			"platform": "youtube",
+			"pref": "神奈川県",
+			"src": ""
+		},
+		{
+			"title": "芦ノ湖",
+			"position": [
+				35.207881,
+				139.034828
+			],
+			"URL": "https://youtu.be/qYnCG4J26d8",
+			"iconClass": "fa-solid fa-water",
+			"platform": "youtube",
+			"pref": "神奈川県",
+			"src": ""
+		},
+		{
+			"title": "東伊豆町・熱川全景",
+			"position": [
+				34.798321,
+				139.060042
+			],
+			"URL": "https://youtu.be/Gbv6GPMCyZ4",
+			"iconClass": "fa-solid fa-ship",
+			"platform": "youtube",
+			"pref": "静岡県",
+			"src": ""
+		},
+		{
+			"title": "東名高速道路・国道1号・由比漁港",
+			"position": [
+				35.102388,
+				138.552217
+			],
+			"URL": "https://youtu.be/6_8ehEmYBYc",
+			"iconClass": "fas fa-road",
+			"platform": "youtube",
+			"pref": "静岡県",
+			"src": ""
+		},
+		{
+			"title": "東名高速道路さった峠",
+			"position": [
+				35.070932,
+				138.541447
+			],
+			"URL": "https://youtu.be/6S4qvf97cbQ",
+			"iconClass": "fa-solid fa-mountain",
+			"platform": "youtube",
+			"pref": "静岡県",
+			"src": ""
+		},
+		{
+			"title": "富士山・清水港",
+			"position": [
+				34.974286,
+				138.465514
+			],
+			"URL": "https://youtu.be/xkJjr78DyWg",
+			"iconClass": "fa-solid fa-ship",
+			"platform": "youtube",
+			"pref": "静岡県",
+			"src": ""
+		},
+		{
+			"title": "ザザシティ浜松鍛冶町通り",
+			"position": [
+				34.704893,
+				137.729211
+			],
+			"URL": "https://youtu.be/ZpeR0ra_YMY",
+			"iconClass": "fas fa-road",
+			"platform": "youtube",
+			"pref": "静岡県",
+			"src": ""
+		},
+		{
+			"title": "国道151号 長野県飯田合同庁舎北側",
+			"position": [
+				35.513947,
+				137.829522
+			],
+			"URL": "https://youtu.be/y83Zvl6kjGY",
+			"iconClass": "bi bi-buildings-fill",
+			"platform": "youtube",
+			"pref": "長野県",
+			"src": ""
+		},
+		{
+			"title": "中部国際空港セントレア",
+			"position": [
+				34.858356,
+				136.810603
+			],
+			"URL": "https://youtu.be/IUR0p7cI9j0",
+			"iconClass": "fa-solid fa-plane",
+			"platform": "youtube",
+			"pref": "愛知県",
+			"src": ""
+		},
+		{
+			"title": "びわこ花噴水",
+			"position": [
+				35.024992,
+				135.864936
+			],
+			"URL": "https://youtu.be/Bxvp5bQ7Qa4",
+			"iconClass": "fa-solid fa-water",
+			"platform": "youtube",
+			"pref": "滋賀県",
+			"src": ""
+		},
+		{
+			"title": "京都駅前バス乗り場",
+			"position": [
+				34.986661,
+				135.759448
+			],
+			"URL": "https://youtu.be/v9rQqa_VTEY",
+			"iconClass": "fa-solid fa-train",
+			"platform": "youtube",
+			"pref": "京都府",
+			"src": ""
+		},
+		{
+			"title": "かめおか霧のテラス",
+			"position": [
+				34.992754,
+				135.561496
+			],
+			"URL": "https://youtu.be/7t4-Kw-iEp4",
+			"iconClass": "fa-solid fa-mountain",
+			"platform": "youtube",
+			"pref": "京都府",
+			"src": ""
+		},
+		{
+			"title": "JR米子駅前",
+			"position": [
+				35.424013,
+				133.33575
+			],
+			"URL": "https://youtu.be/2mCC_zklBNo",
+			"iconClass": "fa-solid fa-train",
+			"platform": "youtube",
+			"pref": "鳥取県",
+			"src": ""
+		},
+		{
+			"title": "宍道湖",
+			"position": [
+				35.458228,
+				133.051737
+			],
+			"URL": "https://youtu.be/rTViPLUmYAc",
+			"iconClass": "fa-solid fa-water",
+			"platform": "youtube",
+			"pref": "島根県",
+			"src": ""
+		},
+		{
+			"title": "サンポート高松",
+			"position": [
+				34.352668,
+				134.046757
+			],
+			"URL": "https://youtu.be/gAOZuVcWorI",
+			"iconClass": "fa-solid fa-ship",
+			"platform": "youtube",
+			"pref": "香川県",
+			"src": ""
+		},
+		{
+			"title": "千光寺山ロープウェイ山頂駅",
+			"position": [
+				34.410533,
+				133.197599
+			],
+			"URL": "https://youtu.be/eHpPUzvLaTg",
+			"iconClass": "fa-solid fa-mountain",
+			"platform": "youtube",
+			"pref": "広島県",
+			"src": ""
+		},
+		{
+			"title": "広島空港",
+			"position": [
+				34.439558,
+				132.920226
+			],
+			"URL": "https://youtu.be/XEWyrgC_dZ0",
+			"iconClass": "fa-solid fa-plane",
+			"platform": "youtube",
+			"pref": "広島県",
+			"src": ""
+		},
+		{
+			"title": "愛媛県松山市・県庁舎付近",
+			"position": [
+				33.840867,
+				132.75856
+			],
+			"URL": "https://youtu.be/_d7Q4wxNfyE",
+			"iconClass": "bi bi-buildings-fill",
+			"platform": "youtube",
+			"pref": "愛媛県",
+			"src": ""
+		},
+		{
+			"title": "松山空港駐機場・滑走路",
+			"position": [
+				33.827695,
+				132.700377
+			],
+			"URL": "https://youtu.be/L9OqeSJgzKA",
+			"iconClass": "fa-solid fa-plane",
+			"platform": "youtube",
+			"pref": "愛媛県",
+			"src": ""
+		},
+		{
+			"title": "ひろしま本通交差点",
+			"position": [
+				34.393696,
+				132.452385
+			],
+			"URL": "https://youtu.be/oW2Gb8YoGAg",
+			"iconClass": "bi bi-buildings-fill",
+			"platform": "youtube",
+			"pref": "広島県",
+			"src": ""
+		},
+		{
+			"title": "広島駅前バス乗り場",
+			"position": [
+				34.397649,
+				132.473758
+			],
+			"URL": "https://youtu.be/TnbvNGJtG1M",
+			"iconClass": "fa-solid fa-train",
+			"platform": "youtube",
+			"pref": "広島県",
+			"src": ""
+		},
+		{
+			"title": "広島電鉄・駅前大橋ルート",
+			"position": [
+				34.394905,
+				132.473238
+			],
+			"URL": "https://youtu.be/btU8RkipKiA",
+			"iconClass": "bi bi-buildings-fill",
+			"platform": "youtube",
+			"pref": "広島県",
+			"src": ""
+		},
+		{
+			"title": "関門橋",
+			"position": [
+				33.949908,
+				130.929606
+			],
+			"URL": "https://youtu.be/ZWRT7Uy6p78",
+			"iconClass": "bi bi-buildings-fill",
+			"platform": "youtube",
+			"pref": "山口県",
+			"src": ""
+		},
+		{
+			"title": "山口宇部空港",
+			"position": [
+				33.93274,
+				131.27487
+			],
+			"URL": "https://youtu.be/NokinTfqIaM",
+			"iconClass": "fa-solid fa-plane",
+			"platform": "youtube",
+			"pref": "山口県",
+			"src": ""
+		},
+		{
+			"title": "大分空港",
+			"position": [
+				33.475997,
+				131.732792
+			],
+			"URL": "https://youtu.be/sFhl7CFnNZA",
+			"iconClass": "fa-solid fa-plane",
+			"platform": "youtube",
+			"pref": "大分県",
+			"src": ""
+		},
+		{
+			"title": "国道10号 別府湾",
+			"position": [
+				33.248527,
+				131.57988
+			],
+			"URL": "https://youtu.be/sOfOn-PzQeg",
+			"iconClass": "fa-solid fa-ship",
+			"platform": "youtube",
+			"pref": "大分県",
+			"src": ""
+		},
+		{
+			"title": "宮崎空港駐機場",
+			"position": [
+				31.873045,
+				131.441177
+			],
+			"URL": "https://youtu.be/ETM2Gb2ks-4",
+			"iconClass": "fa-solid fa-plane",
+			"platform": "youtube",
+			"pref": "宮崎県",
+			"src": ""
+		},
+		{
+			"title": "鹿児島空港",
+			"position": [
+				31.8016,
+				130.715817
+			],
+			"URL": "https://youtu.be/pJC3BThpdio",
+			"iconClass": "fa-solid fa-plane",
+			"platform": "youtube",
+			"pref": "鹿児島県",
+			"src": ""
+		},
+		{
+			"title": "沖縄都市モノレール線ゆいレール",
+			"position": [
+				26.215729,
+				127.67915
+			],
+			"URL": "https://youtu.be/6HYjCFkmDPA",
+			"iconClass": "fa-solid fa-train",
+			"platform": "youtube",
+			"pref": "沖縄県",
+			"src": ""
+		},
+		{
+			"title": "熊本市中央区（白川河川敷付近）",
+			"position": [
+				32.790359,
+				130.689226
+			],
+			"URL": "https://youtu.be/MAs18xtaP4M",
+			"iconClass": "bi bi-buildings-fill",
+			"platform": "youtube",
+			"pref": "熊本県",
+			"src": ""
+		},
+		{
+			"title": "国道57号阿蘇方面",
+			"position": [
+				32.829742,
+				130.770151
+			],
+			"URL": "https://youtu.be/4SQ3F3LJCUM",
+			"iconClass": "fas fa-road",
+			"platform": "youtube",
+			"pref": "熊本県",
+			"src": ""
+		},
+		{
+			"title": "阿蘇くまもと空港滑走路",
+			"position": [
+				32.835037,
+				130.859687
+			],
+			"URL": "https://youtu.be/rGtE0C62fss",
+			"iconClass": "fa-solid fa-plane",
+			"platform": "youtube",
+			"pref": "熊本県",
+			"src": ""
+		}
+	]
+}

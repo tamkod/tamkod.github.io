@@ -1,0 +1,762 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>日本全国ライブカメラ - 道路・河川・観光地の今をリアルタイム確認</title>
+    <meta name="description" content="全国4000箇所以上のライブカメラを一つのアプリで確認。道路の渋滞状況、河川の水位、観光地の様子をリアルタイムで表示。通勤・旅行・防災に役立つ無料アプリ。">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans JP', sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: linear-gradient(135deg, #1B365C 0%, #1B365C 100%);
+            overflow-x: hidden;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        /* ヘッダー */
+        header {
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(20px);
+            padding: 1rem 0;
+            position: fixed;
+            width: 100%;
+            top: 0;
+            z-index: 1000;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+        }
+
+        .header-content {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logo {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            color: white;
+            font-weight: 700;
+            font-size: 1.2rem;
+        }
+
+        .app-icon {
+            width: 40px;
+            height: 40px;
+            border-radius: 12px;
+            box-shadow: 0 8px 25px rgba(25, 118, 210, 0.3);
+        }
+
+        .app-icon img {
+            width: 100%;
+            height: 100%;
+            border-radius: 12px;
+        }
+
+        /* ヒーローセクション */
+        .hero {
+            padding: 120px 0 80px;
+            text-align: center;
+            color: white;
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+        }
+
+        .hero-content {
+            animation: fadeInUp 1s ease-out;
+        }
+
+        .hero-icon {
+            width: 120px;
+            height: 120px;
+            border-radius: 32px;
+            margin: 0 auto 2rem;
+            box-shadow: 0 20px 60px rgba(25, 118, 210, 0.4);
+            animation: float 3s ease-in-out infinite;
+            overflow: hidden;
+        }
+
+        .hero-icon img {
+            width: 100%;
+            height: 100%;
+            border-radius: 32px;
+        }
+
+        .hero h1 {
+            font-size: 3.5rem;
+            font-weight: 800;
+            margin-bottom: 1rem;
+            background: linear-gradient(135deg, #fff, #e3f2fd);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .hero-subtitle {
+            font-size: 1.4rem;
+            margin-bottom: 2rem;
+            opacity: 0.9;
+            font-weight: 300;
+        }
+
+        .live-badge {
+            display: inline-block;
+            background: linear-gradient(45deg, #ff4444, #ff6666);
+            color: white;
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-size: 0.9rem;
+            font-weight: 600;
+            margin-bottom: 1rem;
+            animation: pulse 2s infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.8; }
+        }
+
+        .cta-buttons {
+            display: flex;
+            gap: 1rem;
+            justify-content: center;
+            flex-wrap: wrap;
+            margin-top: 2rem;
+        }
+
+        .btn {
+            padding: 15px 30px;
+            border-radius: 25px;
+            text-decoration: none;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            border: none;
+            cursor: pointer;
+            font-size: 1rem;
+        }
+
+        .btn-primary {
+            background: transparent;
+            color: white;
+            padding: 10px 15px;
+            border: none;
+        }
+
+        .btn-primary:hover {
+            transform: translateY(-3px);
+        }
+
+        .btn-secondary {
+            background: rgba(255, 255, 255, 0.2);
+            color: white;
+            border: 1px solid rgba(255, 255, 255, 0.3);
+            backdrop-filter: blur(10px);
+        }
+
+        .btn:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 12px 35px rgba(0, 0, 0, 0.2);
+        }
+
+        /* 統計セクション */
+        .stats {
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(20px);
+            padding: 60px 0;
+            margin-top: -50px;
+        }
+
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 2rem;
+            text-align: center;
+        }
+
+        .stat-item {
+            color: white;
+        }
+
+        .stat-number {
+            font-size: 3rem;
+            font-weight: 800;
+            display: block;
+            background: linear-gradient(135deg, #fff, #e3f2fd);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .stat-label {
+            font-size: 1.1rem;
+            opacity: 0.9;
+            margin-top: 0.5rem;
+        }
+
+        /* 機能セクション */
+        .features {
+            background: white;
+            padding: 100px 0;
+            position: relative;
+        }
+
+        .features::before {
+            content: '';
+            position: absolute;
+            top: -50px;
+            left: 0;
+            right: 0;
+            height: 100px;
+            background: white;
+            border-radius: 50px 50px 0 0;
+        }
+
+        .features h2 {
+            text-align: center;
+            font-size: 2.5rem;
+            margin-bottom: 3rem;
+            color: #333;
+            font-weight: 700;
+        }
+
+        .features-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+            margin-top: 3rem;
+        }
+
+        .feature-card {
+            background: white;
+            padding: 2rem;
+            border-radius: 24px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+            text-align: center;
+            transition: all 0.3s ease;
+            border: 1px solid rgba(0, 0, 0, 0.05);
+        }
+
+        .feature-card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 20px 50px rgba(0, 0, 0, 0.15);
+        }
+
+        .feature-icon {
+            width: 60px;
+            height: 60px;
+            background: linear-gradient(135deg, #1B365C, #1B365C);
+            border-radius: 16px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 0 auto 1rem;
+            font-size: 24px;
+        }
+
+        .feature-card h3 {
+            font-size: 1.3rem;
+            margin-bottom: 0.5rem;
+            color: #333;
+            font-weight: 600;
+        }
+
+        .feature-card p {
+            color: #666;
+            line-height: 1.6;
+        }
+
+        /* 利用シーンセクション */
+        .use-cases {
+            background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+            padding: 100px 0;
+        }
+
+        .use-cases h2 {
+            text-align: center;
+            font-size: 2.5rem;
+            margin-bottom: 3rem;
+            color: #333;
+            font-weight: 700;
+        }
+
+        .use-cases-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 2rem;
+        }
+
+        .use-case-card {
+            background: white;
+            padding: 2rem;
+            border-radius: 20px;
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
+            text-align: center;
+            transition: all 0.3s ease;
+        }
+
+        .use-case-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 15px 40px rgba(0, 0, 0, 0.15);
+        }
+
+        .use-case-icon {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+        }
+
+        .use-case-card h3 {
+            font-size: 1.2rem;
+            margin-bottom: 0.5rem;
+            color: #333;
+            font-weight: 600;
+        }
+
+        .use-case-card p {
+            color: #666;
+            font-size: 0.9rem;
+        }
+
+        /* スクリーンショットセクション */
+        .screenshots {
+            padding: 100px 0;
+            background: white;
+            text-align: center;
+        }
+
+        .screenshots h2 {
+            font-size: 2.5rem;
+            margin-bottom: 3rem;
+            color: #333;
+            font-weight: 700;
+        }
+
+        .screenshot-container {
+            display: flex;
+            justify-content: center;
+            gap: 2rem;
+            flex-wrap: wrap;
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+
+        .screenshot {
+            width: 250px;
+            height: auto;
+            border-radius: 24px;
+            box-shadow: 0 20px 50px rgba(0, 0, 0, 0.2);
+            transition: all 0.3s ease;
+            animation: slideInUp 1s ease-out;
+        }
+
+        .screenshot:hover {
+            transform: scale(1.05) translateY(-10px);
+            box-shadow: 0 30px 70px rgba(0, 0, 0, 0.3);
+        }
+
+        /* ダウンロードセクション */
+        .download {
+            background: linear-gradient(135deg, #1B365C, #1B365C);
+            padding: 100px 0;
+            text-align: center;
+            color: white;
+        }
+
+        .download h2 {
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+            font-weight: 700;
+        }
+
+        .download p {
+            font-size: 1.2rem;
+            margin-bottom: 3rem;
+            opacity: 0.9;
+        }
+
+        .download-buttons {
+            display: flex;
+            gap: 1rem;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+
+        .store-btn {
+            display: inline-flex;
+            align-items: center;
+            padding: 10px;
+            background: transparent;
+            border: none;
+            border-radius: 16px;
+            color: white;
+            text-decoration: none;
+            transition: all 0.3s ease;
+        }
+
+        .store-btn:hover {
+            transform: translateY(-3px);
+        }
+
+        /* フッター */
+        footer {
+            background: #1B365C;
+            color: white;
+            text-align: center;
+            padding: 3rem 0;
+        }
+
+        .footer-content {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 1rem;
+        }
+
+        .footer-links {
+            display: flex;
+            gap: 2rem;
+        }
+
+        .footer-link {
+            color: rgba(255, 255, 255, 0.8);
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+
+        .footer-link:hover {
+            color: white;
+        }
+
+        /* アニメーション */
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        @keyframes slideInUp {
+            from {
+                opacity: 0;
+                transform: translateY(50px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        @keyframes float {
+            0%, 100% {
+                transform: translateY(0px);
+            }
+            50% {
+                transform: translateY(-10px);
+            }
+        }
+
+        /* レスポンシブ */
+        @media (max-width: 768px) {
+            .hero h1 {
+                font-size: 2.5rem;
+            }
+
+            .hero-subtitle {
+                font-size: 1.1rem;
+            }
+
+            .stats-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+
+            .stat-number {
+                font-size: 2rem;
+            }
+
+            .features-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .use-cases-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .screenshot-container {
+                flex-direction: column;
+                align-items: center;
+            }
+
+            .screenshot {
+                width: 200px;
+            }
+
+            .footer-content {
+                flex-direction: column;
+                text-align: center;
+            }
+        }
+
+        /* スクロールアニメーション */
+        .fade-in {
+            opacity: 0;
+            transform: translateY(30px);
+            transition: all 0.6s ease;
+        }
+
+        .fade-in.visible {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="header-content">
+                <div class="logo">
+                    <div class="app-icon">
+                        <img src="app-icon.png" alt="日本全国ライブカメラ アイコン">
+                    </div>
+                    日本全国ライブカメラ
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <section class="hero">
+            <div class="container">
+                <div class="hero-content">
+                    <div class="hero-icon">
+                        <img src="app-icon.png" alt="日本全国ライブカメラ アイコン">
+                    </div>
+                    <div class="live-badge">🔴 LIVE配信中</div>
+                    <h1>日本全国ライブカメラ</h1>
+                    <p class="hero-subtitle">道路・河川の「今」を<br>リアルタイムで確認</p>
+                    <div class="cta-buttons">
+                        <a href="https://apps.apple.com/jp/app/id6749530658" class="btn btn-primary">
+                            <img src="app-store-button.svg" alt="App Storeで入手" style="height: 40px;">
+                        </a>
+                        <a href="https://play.google.com/store/apps/details?id=tam.kod.livecam"  class="btn btn-primary">
+                            <img src="google-play-badge.png" alt="Google Playで入手"  style="height: 50px;">
+                        </a>
+
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="stats">
+            <div class="container">
+                <div class="stats-grid fade-in">
+                    <div class="stat-item">
+                        <span class="stat-number">4000+</span>
+                        <div class="stat-label">ライブカメラ箇所</div>
+                    </div>
+                    <div class="stat-item">
+                        <span class="stat-number">無料</span>
+                        <div class="stat-label">完全無料利用</div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="features">
+            <div class="container">
+                <h2 class="fade-in">主な機能</h2>
+                <div class="features-grid">
+                    <div class="feature-card fade-in">
+                        <div class="feature-icon">🗾</div>
+                        <h3>全国マップ表示</h3>
+                        <p>日本地図上にライブカメラの位置をピン表示。ピンをタップするだけで現地の映像を確認できます。</p>
+                    </div>
+                    <div class="feature-card fade-in">
+                        <div class="feature-icon">📋</div>
+                        <h3>見やすいリスト表示</h3>
+                        <p>カード形式で一覧表示。サムネイル付きで、カテゴリアイコンで種類が一目でわかります。</p>
+                    </div>
+                    <div class="feature-card fade-in">
+                        <div class="feature-icon">🔍</div>
+                        <h3>便利な絞り込み・検索</h3>
+                        <p>都道府県別、カテゴリ別（道路・河川・山岳・沿岸・街）で絞り込み。キーワード検索も可能。</p>
+                    </div>
+                    <div class="feature-card fade-in">
+                        <div class="feature-icon">❤️</div>
+                        <h3>お気に入り管理</h3>
+                        <p>よく見るカメラを簡単お気に入り登録。自由にフォルダを作成して用途別に整理できます。</p>
+                    </div>
+                    <div class="feature-card fade-in">
+                        <div class="feature-icon">📱</div>
+                        <h3>フルスクリーン表示</h3>
+                        <p>ライブ映像を大画面で詳細確認。手動更新で最新の状況をチェックできます。</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="use-cases">
+            <div class="container">
+                <h2 class="fade-in">こんな時に便利</h2>
+                <div class="use-cases-grid">
+                    <div class="use-case-card fade-in">
+                        <div class="use-case-icon">🗻</div>
+                        <h3>お出かけ</h3>
+                        <p>目的地の天気や混雑状況を事前確認。</p>
+                    </div>
+                    <div class="use-case-card fade-in">
+                        <div class="use-case-icon">🌊</div>
+                        <h3>防災・安全対策</h3>
+                        <p>台風・大雨時の河川水位を監視。災害時の道路通行状況を確認できます。</p>
+                    </div>
+                    <div class="use-case-card fade-in">
+                        <div class="use-case-icon">🏡</div>
+                        <h3>故郷チェック</h3>
+                        <p>離れて暮らす故郷の今を確認。懐かしい風景をいつでも見ることができます。</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="screenshots">
+            <div class="container">
+                <h2 class="fade-in">アプリの画面</h2>
+                <div class="screenshot-container">
+                    <img src="screenshot1.png" alt="マップ表示画面" class="screenshot fade-in">
+                    <img src="screenshot2.png" alt="お気に入り+リスト表示画面" class="screenshot fade-in">
+                </div>
+            </div>
+        </section>
+
+        <section class="download">
+            <div class="container">
+                <h2 class="fade-in">今すぐダウンロード</h2>
+                <p class="fade-in">全国のライブカメラを一つのアプリで。<br>App Storeで無料ダウンロード。</p>
+                <div class="download-buttons fade-in">
+                    <a href="https://apps.apple.com/jp/app/id6749530658" class="store-btn">
+                        <img src="app-store-button.svg" alt="App Storeで入手" style="height: 40px;">
+                    </a>
+
+                    <a href="https://play.google.com/store/apps/details?id=tam.kod.livecam"  class="btn btn-primary">
+                        <img src="google-play-badge.png" alt="Google Playで入手"  style="height: 50px;">
+                    </a>
+
+
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <p>&copy; 2025 日本全国ライブカメラ. All rights reserved.</p>
+                <div class="footer-links">
+                    <a href="pp.html" class="footer-link">プライバシーポリシー</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        // スクロールアニメーション
+        const observerOptions = {
+            threshold: 0.1,
+            rootMargin: '0px 0px -50px 0px'
+        };
+
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.classList.add('visible');
+                }
+            });
+        }, observerOptions);
+
+        // 監視対象の要素を設定
+        document.querySelectorAll('.fade-in').forEach(el => {
+            observer.observe(el);
+        });
+
+        // スムーススクロール
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                const target = document.querySelector(this.getAttribute('href'));
+                if (target) {
+                    target.scrollIntoView({
+                        behavior: 'smooth',
+                        block: 'start'
+                    });
+                }
+            });
+        });
+
+        // パフォーマンス最適化：画面サイズ変更時の処理
+        let resizeTimer;
+        window.addEventListener('resize', () => {
+            clearTimeout(resizeTimer);
+            resizeTimer = setTimeout(() => {
+                // リサイズ完了後の処理があればここに
+            }, 250);
+        });
+
+        // 動的な統計情報のアニメーション
+        function animateStats() {
+            const statNumbers = document.querySelectorAll('.stat-number');
+            statNumbers.forEach(stat => {
+                if (stat.textContent !== '無料') {
+                    const finalNumber = parseInt(stat.textContent.replace('+', ''));
+                    const increment = finalNumber / 50;
+                    let currentNumber = 0;
+                    
+                    const timer = setInterval(() => {
+                        currentNumber += increment;
+                        if (currentNumber >= finalNumber) {
+                            stat.textContent = finalNumber >= 4000 ? '4000+' : finalNumber.toString();
+                            clearInterval(timer);
+                        } else {
+                            stat.textContent = Math.floor(currentNumber).toString();
+                        }
+                    }, 30);
+                }
+            });
+        }
+
+        // 統計セクションが表示されたらアニメーション開始
+        const statsSection = document.querySelector('.stats');
+        const statsObserver = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    animateStats();
+                    statsObserver.unobserve(entry.target);
+                }
+            });
+        });
+        
+        if (statsSection) {
+            statsObserver.observe(statsSection);
+        }
+    </script>
+</body>
+</html>
