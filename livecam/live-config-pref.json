@@ -119384,6 +119384,1241 @@
       "platform": "mlit kawanobosai",
       "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=31.326609&clon=130.947037&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=122858138&ownCd=22858&sysCamId=22858138",
       "pref": "鹿児島県"
+    },
+    {
+      "id": "river_122569001",
+      "position": [
+        33.8097222,
+        132.7197222
+      ],
+      "title": "重信川 重信川右岸2k6松山市東垣生",
+      "URL": "https://cam.river.go.jp/cam/now/122569001.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.8097222&clon=132.7197222&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=122569001&ownCd=22569&sysCamId=22569001",
+      "pref": "愛媛県"
+    },
+    {
+      "id": "river_122569003",
+      "position": [
+        33.7844444,
+        132.8061111
+      ],
+      "title": "重信川 重信川左岸10k6松山市河原排水樋管",
+      "URL": "https://cam.river.go.jp/cam/now/122569003.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.7844444&clon=132.8061111&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=122569003&ownCd=22569&sysCamId=22569003",
+      "pref": "愛媛県"
+    },
+    {
+      "id": "river_122570005",
+      "position": [
+        33.5347566,
+        132.6042488
+      ],
+      "title": "肱川 矢落川右岸３．６ｋ　大洲市　新谷",
+      "URL": "https://cam.river.go.jp/cam/now/122570005.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.5347566&clon=132.6042488&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=122570005&ownCd=22570&sysCamId=22570005",
+      "pref": "愛媛県"
+    },
+    {
+      "id": "river_122569004",
+      "position": [
+        33.7836111,
+        132.8624999
+      ],
+      "title": "重信川 重信川右岸15k4東温市四号床止",
+      "URL": "https://cam.river.go.jp/cam/now/122569004.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.7836111&clon=132.8624999&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=122569004&ownCd=22569&sysCamId=22569004",
+      "pref": "愛媛県"
+    },
+    {
+      "id": "river_122569002",
+      "position": [
+        33.8052777,
+        132.7088888
+      ],
+      "title": "重信川 重信川左岸1k6松前町大新田床止",
+      "URL": "https://cam.river.go.jp/cam/now/122569002.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.8052777&clon=132.7088888&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=122569002&ownCd=22569&sysCamId=22569002",
+      "pref": "愛媛県"
+    },
+    {
+      "id": "river_111265020",
+      "position": [
+        33.1605556,
+        131.5255556
+      ],
+      "title": "大分川 一ノ瀬橋",
+      "URL": "https://cam.river.go.jp/cam/now/111265020.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.1605556&clon=131.5255556&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265020&ownCd=11265&sysCamId=11265020",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_122835075",
+      "position": [
+        33.17752,
+        131.551602
+      ],
+      "title": "大分川 ６ｋ４０Ｒ廻栖野樋管",
+      "URL": "https://cam.river.go.jp/cam/now/122835075.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.17752&clon=131.551602&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=122835075&ownCd=22835&sysCamId=22835075",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265012",
+      "position": [
+        33.2080556,
+        131.5827778
+      ],
+      "title": "大分川 尼ヶ瀬樋門",
+      "URL": "https://cam.river.go.jp/cam/now/111265012.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.2080556&clon=131.5827778&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265012&ownCd=11265&sysCamId=11265012",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265011",
+      "position": [
+        33.2080556,
+        131.6347222
+      ],
+      "title": "大分川 木ノ元橋",
+      "URL": "https://cam.river.go.jp/cam/now/111265011.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.2080556&clon=131.6347222&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265011&ownCd=11265&sysCamId=11265011",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_122835076",
+      "position": [
+        33.2170556,
+        131.6988333
+      ],
+      "title": "大野川 ５ｋ７０Ｒ種具",
+      "URL": "https://cam.river.go.jp/cam/now/122835076.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.2170556&clon=131.6988333&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=122835076&ownCd=22835&sysCamId=22835076",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265017",
+      "position": [
+        33.2488889,
+        131.6652778
+      ],
+      "title": "大野川 日岡橋",
+      "URL": "https://cam.river.go.jp/cam/now/111265017.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.2488889&clon=131.6652778&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265017&ownCd=11265&sysCamId=11265017",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265072",
+      "position": [
+        33.1805556,
+        131.6883333
+      ],
+      "title": "大野川 宮谷橋",
+      "URL": "https://cam.river.go.jp/cam/now/111265072.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.1805556&clon=131.6883333&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265072&ownCd=11265&sysCamId=11265072",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265015",
+      "position": [
+        33.1280556,
+        131.6458333
+      ],
+      "title": "大野川 瓜生橋",
+      "URL": "https://cam.river.go.jp/cam/now/111265015.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.1280556&clon=131.6458333&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265015&ownCd=11265&sysCamId=11265015",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265073",
+      "position": [
+        33.1120556,
+        131.6933333
+      ],
+      "title": "大野川 八坂橋",
+      "URL": "https://cam.river.go.jp/cam/now/111265073.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.1120556&clon=131.6933333&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265073&ownCd=11265&sysCamId=11265073",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265071",
+      "position": [
+        33.1934167,
+        131.6944444
+      ],
+      "title": "大野川 大谷2号橋",
+      "URL": "https://cam.river.go.jp/cam/now/111265071.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.1934167&clon=131.6944444&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265071&ownCd=11265&sysCamId=11265071",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265014",
+      "position": [
+        33.1902778,
+        131.6783333
+      ],
+      "title": "大野川 大堀樋門",
+      "URL": "https://cam.river.go.jp/cam/now/111265014.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.1902778&clon=131.6783333&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265014&ownCd=11265&sysCamId=11265014",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265016",
+      "position": [
+        33.2375,
+        131.5969444
+      ],
+      "title": "住吉川 西田室橋",
+      "URL": "https://cam.river.go.jp/cam/now/111265016.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.2375&clon=131.5969444&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265016&ownCd=11265&sysCamId=11265016",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265021",
+      "position": [
+        33.2258333,
+        131.7486111
+      ],
+      "title": "丹生川 宮崎橋",
+      "URL": "https://cam.river.go.jp/cam/now/111265021.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.2258333&clon=131.7486111&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265021&ownCd=11265&sysCamId=11265021",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265019",
+      "position": [
+        33.2183333,
+        131.7411111
+      ],
+      "title": "丹生川 屋山橋",
+      "URL": "https://cam.river.go.jp/cam/now/111265019.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.2183333&clon=131.7411111&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265019&ownCd=11265&sysCamId=11265019",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265070",
+      "position": [
+        33.2364722,
+        131.7759444
+      ],
+      "title": "本田川 第2細橋",
+      "URL": "https://cam.river.go.jp/cam/now/111265070.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.2364722&clon=131.7759444&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265070&ownCd=11265&sysCamId=11265070",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265022",
+      "position": [
+        33.2319444,
+        131.8416667
+      ],
+      "title": "志生木川 十谷橋",
+      "URL": "https://cam.river.go.jp/cam/now/111265022.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.2319444&clon=131.8416667&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265022&ownCd=11265&sysCamId=11265022",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265009",
+      "position": [
+        33.2711111,
+        131.5022222
+      ],
+      "title": "朝見川 蓮田橋",
+      "URL": "https://cam.river.go.jp/cam/now/111265009.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.2711111&clon=131.5022222&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265009&ownCd=11265&sysCamId=11265009",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265055",
+      "position": [
+        33.4916667,
+        131.1716667
+      ],
+      "title": "山国川 耶馬橋",
+      "URL": "https://cam.river.go.jp/cam/now/111265055.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.4916667&clon=131.1716667&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265055&ownCd=11265&sysCamId=11265055",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265123",
+      "position": [
+        33.3743844,
+        131.166
+      ],
+      "title": "山国川 温泉橋",
+      "URL": "https://cam.river.go.jp/cam/now/111265123.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.3743844&clon=131.166&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265123&ownCd=11265&sysCamId=11265123",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265124",
+      "position": [
+        33.4647222,
+        131.1103611
+      ],
+      "title": "山国川 宇部橋",
+      "URL": "https://cam.river.go.jp/cam/now/111265124.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.4647222&clon=131.1103611&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265124&ownCd=11265&sysCamId=11265124",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265053",
+      "position": [
+        33.6016667,
+        131.1997222
+      ],
+      "title": "蛎瀬川 蛎瀬橋",
+      "URL": "https://cam.river.go.jp/cam/now/111265053.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.6016667&clon=131.1997222&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265053&ownCd=11265&sysCamId=11265053",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265054",
+      "position": [
+        33.565,
+        131.2580556
+      ],
+      "title": "犬丸川 犬丸橋",
+      "URL": "https://cam.river.go.jp/cam/now/111265054.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.565&clon=131.2580556&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265054&ownCd=11265&sysCamId=11265054",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_122816019",
+      "position": [
+        33.3134444,
+        130.8971667
+      ],
+      "title": "筑後川 筑後川７１ｋ０００石井排水樋管",
+      "URL": "https://cam.river.go.jp/cam/now/122816019.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.3134444&clon=130.8971667&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=122816019&ownCd=22816&sysCamId=22816019",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_122816020",
+      "position": [
+        33.3136389,
+        130.8974167
+      ],
+      "title": "筑後川 筑後川７１ｋ０００石井",
+      "URL": "https://cam.river.go.jp/cam/now/122816020.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.3136389&clon=130.8974167&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=122816020&ownCd=22816&sysCamId=22816020",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_122816021",
+      "position": [
+        33.3198056,
+        130.9023889
+      ],
+      "title": "筑後川 筑後川７２ｋ０００石井",
+      "URL": "https://cam.river.go.jp/cam/now/122816021.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.3198056&clon=130.9023889&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=122816021&ownCd=22816&sysCamId=22816021",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265118",
+      "position": [
+        33.3333889,
+        130.9098333
+      ],
+      "title": "筑後川 二串橋",
+      "URL": "https://cam.river.go.jp/cam/now/111265118.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.3333889&clon=130.9098333&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265118&ownCd=11265&sysCamId=11265118",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265047",
+      "position": [
+        33.3,
+        130.9380556
+      ],
+      "title": "筑後川 鰐淵橋",
+      "URL": "https://cam.river.go.jp/cam/now/111265047.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.3&clon=130.9380556&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265047&ownCd=11265&sysCamId=11265047",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265116",
+      "position": [
+        33.3329167,
+        131.0073889
+      ],
+      "title": "筑後川 両組橋",
+      "URL": "https://cam.river.go.jp/cam/now/111265116.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.3329167&clon=131.0073889&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265116&ownCd=11265&sysCamId=11265116",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265050",
+      "position": [
+        33.3452778,
+        130.9402778
+      ],
+      "title": "筑後川 養面寺橋",
+      "URL": "https://cam.river.go.jp/cam/now/111265050.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.3452778&clon=130.9402778&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265050&ownCd=11265&sysCamId=11265050",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_122837077",
+      "position": [
+        32.94470833,
+        131.7833944
+      ],
+      "title": "番匠川 番匠川（左岸18k200）荒瀬",
+      "URL": "https://cam.river.go.jp/cam/now/122837077.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=32.94470833&clon=131.7833944&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=122837077&ownCd=22837&sysCamId=22837077",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_122837078",
+      "position": [
+        32.93198333,
+        131.8876611
+      ],
+      "title": "番匠川 堅田川（左岸2k500）柏江",
+      "URL": "https://cam.river.go.jp/cam/now/122837078.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=32.93198333&clon=131.8876611&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=122837078&ownCd=22837&sysCamId=22837078",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_122837079",
+      "position": [
+        32.971243,
+        131.844585
+      ],
+      "title": "番匠川 井崎川（右岸1k600）井崎",
+      "URL": "https://cam.river.go.jp/cam/now/122837079.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=32.971243&clon=131.844585&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=122837079&ownCd=22837&sysCamId=22837079",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_122837080",
+      "position": [
+        32.98425556,
+        131.8475444
+      ],
+      "title": "番匠川 井崎川（左岸3k600）植松",
+      "URL": "https://cam.river.go.jp/cam/now/122837080.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=32.98425556&clon=131.8475444&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=122837080&ownCd=22837&sysCamId=22837080",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_122837081",
+      "position": [
+        32.984475,
+        131.847075
+      ],
+      "title": "番匠川 井崎川（右岸3k600）稽古屋",
+      "URL": "https://cam.river.go.jp/cam/now/122837081.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=32.984475&clon=131.847075&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=122837081&ownCd=22837&sysCamId=22837081",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_122837082",
+      "position": [
+        32.94582778,
+        131.7989
+      ],
+      "title": "番匠川 久留須川（左岸1k000）深瀬",
+      "URL": "https://cam.river.go.jp/cam/now/122837082.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=32.94582778&clon=131.7989&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=122837082&ownCd=22837&sysCamId=22837082",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_122837083",
+      "position": [
+        32.941266,
+        131.80227
+      ],
+      "title": "番匠川 久留須川（右岸2k000）大良",
+      "URL": "https://cam.river.go.jp/cam/now/122837083.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=32.941266&clon=131.80227&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=122837083&ownCd=22837&sysCamId=22837083",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_122837084",
+      "position": [
+        32.938882,
+        131.803118
+      ],
+      "title": "番匠川 久留須川（左岸2k600）長崎樋管",
+      "URL": "https://cam.river.go.jp/cam/now/122837084.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=32.938882&clon=131.803118&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=122837084&ownCd=22837&sysCamId=22837084",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_122837085",
+      "position": [
+        32.91708056,
+        131.7934694
+      ],
+      "title": "番匠川 久留須川（左岸7k600）水口樋管",
+      "URL": "https://cam.river.go.jp/cam/now/122837085.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=32.91708056&clon=131.7934694&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=122837085&ownCd=22837&sysCamId=22837085",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265092",
+      "position": [
+        32.9322778,
+        131.9025833
+      ],
+      "title": "番匠川 玉垂橋",
+      "URL": "https://cam.river.go.jp/cam/now/111265092.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=32.9322778&clon=131.9025833&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265092&ownCd=11265&sysCamId=11265092",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265091",
+      "position": [
+        32.9600556,
+        131.9018333
+      ],
+      "title": "番匠川 来島橋",
+      "URL": "https://cam.river.go.jp/cam/now/111265091.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=32.9600556&clon=131.9018333&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265091&ownCd=11265&sysCamId=11265091",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265086",
+      "position": [
+        32.9537778,
+        131.8738611
+      ],
+      "title": "番匠川 五反田橋",
+      "URL": "https://cam.river.go.jp/cam/now/111265086.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=32.9537778&clon=131.8738611&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265086&ownCd=11265&sysCamId=11265086",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265093",
+      "position": [
+        32.9438333,
+        131.8343611
+      ],
+      "title": "番匠川 久土橋",
+      "URL": "https://cam.river.go.jp/cam/now/111265093.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=32.9438333&clon=131.8343611&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265093&ownCd=11265&sysCamId=11265093",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265096",
+      "position": [
+        32.9510833,
+        131.7892222
+      ],
+      "title": "番匠川 波寄津橋",
+      "URL": "https://cam.river.go.jp/cam/now/111265096.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=32.9510833&clon=131.7892222&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265096&ownCd=11265&sysCamId=11265096",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265090",
+      "position": [
+        32.9303611,
+        131.8640833
+      ],
+      "title": "番匠川 虚空蔵橋",
+      "URL": "https://cam.river.go.jp/cam/now/111265090.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=32.9303611&clon=131.8640833&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265090&ownCd=11265&sysCamId=11265090",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265089",
+      "position": [
+        32.8927778,
+        131.7805
+      ],
+      "title": "番匠川 栗林橋",
+      "URL": "https://cam.river.go.jp/cam/now/111265089.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=32.8927778&clon=131.7805&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265089&ownCd=11265&sysCamId=11265089",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265035",
+      "position": [
+        32.9525,
+        131.8388889
+      ],
+      "title": "番匠川 切畑小学校前",
+      "URL": "https://cam.river.go.jp/cam/now/111265035.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=32.9525&clon=131.8388889&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265035&ownCd=11265&sysCamId=11265035",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265087",
+      "position": [
+        33.0006389,
+        131.8895
+      ],
+      "title": "戸穴川 戸穴橋",
+      "URL": "https://cam.river.go.jp/cam/now/111265087.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.0006389&clon=131.8895&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265087&ownCd=11265&sysCamId=11265087",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265088",
+      "position": [
+        32.95251,
+        131.9399465
+      ],
+      "title": "吹浦川 吹浦橋",
+      "URL": "https://cam.river.go.jp/cam/now/111265088.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=32.95251&clon=131.9399465&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265088&ownCd=11265&sysCamId=11265088",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265082",
+      "position": [
+        33.1782222,
+        131.8276389
+      ],
+      "title": "有屋川 桑原橋",
+      "URL": "https://cam.river.go.jp/cam/now/111265082.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.1782222&clon=131.8276389&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265082&ownCd=11265&sysCamId=11265082",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265028",
+      "position": [
+        33.1775,
+        131.825
+      ],
+      "title": "佐志生川 山崎橋",
+      "URL": "https://cam.river.go.jp/cam/now/111265028.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.1775&clon=131.825&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265028&ownCd=11265&sysCamId=11265028",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265027",
+      "position": [
+        33.1466667,
+        131.7897222
+      ],
+      "title": "熊崎川 堂篭橋",
+      "URL": "https://cam.river.go.jp/cam/now/111265027.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.1466667&clon=131.7897222&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265027&ownCd=11265&sysCamId=11265027",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265030",
+      "position": [
+        33.1125,
+        131.7875
+      ],
+      "title": "臼杵川 福良１号橋",
+      "URL": "https://cam.river.go.jp/cam/now/111265030.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.1125&clon=131.7875&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265030&ownCd=11265&sysCamId=11265030",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265031",
+      "position": [
+        33.0919444,
+        131.7577778
+      ],
+      "title": "臼杵川 南津留小学校橋",
+      "URL": "https://cam.river.go.jp/cam/now/111265031.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.0919444&clon=131.7577778&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265031&ownCd=11265&sysCamId=11265031",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265029",
+      "position": [
+        33.1152778,
+        131.8047222
+      ],
+      "title": "海添川 竹尾橋",
+      "URL": "https://cam.river.go.jp/cam/now/111265029.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.1152778&clon=131.8047222&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265029&ownCd=11265&sysCamId=11265029",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265081",
+      "position": [
+        33.1136667,
+        131.8059167
+      ],
+      "title": "海添川 坂本橋",
+      "URL": "https://cam.river.go.jp/cam/now/111265081.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.1136667&clon=131.8059167&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265081&ownCd=11265&sysCamId=11265081",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265083",
+      "position": [
+        33.0930833,
+        131.8610556
+      ],
+      "title": "堅浦川 中村橋",
+      "URL": "https://cam.river.go.jp/cam/now/111265083.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.0930833&clon=131.8610556&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265083&ownCd=11265&sysCamId=11265083",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265084",
+      "position": [
+        33.0903889,
+        131.8505556
+      ],
+      "title": "徳浦川 徳浦橋",
+      "URL": "https://cam.river.go.jp/cam/now/111265084.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.0903889&clon=131.8505556&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265084&ownCd=11265&sysCamId=11265084",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265085",
+      "position": [
+        33.0623889,
+        131.869
+      ],
+      "title": "津久見川 第2路木橋",
+      "URL": "https://cam.river.go.jp/cam/now/111265085.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.0623889&clon=131.869&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265085&ownCd=11265&sysCamId=11265085",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265102",
+      "position": [
+        32.9818889,
+        131.3893333
+      ],
+      "title": "大野川 蛍雪橋",
+      "URL": "https://cam.river.go.jp/cam/now/111265102.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=32.9818889&clon=131.3893333&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265102&ownCd=11265&sysCamId=11265102",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265104",
+      "position": [
+        33.0191667,
+        131.2486389
+      ],
+      "title": "大野川 仲寺橋",
+      "URL": "https://cam.river.go.jp/cam/now/111265104.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.0191667&clon=131.2486389&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265104&ownCd=11265&sysCamId=11265104",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265101",
+      "position": [
+        32.94725,
+        131.3678611
+      ],
+      "title": "大野川 音口橋",
+      "URL": "https://cam.river.go.jp/cam/now/111265101.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=32.94725&clon=131.3678611&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265101&ownCd=11265&sysCamId=11265101",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265001",
+      "position": [
+        33.6080556,
+        131.4777778
+      ],
+      "title": "真玉川 千原橋",
+      "URL": "https://cam.river.go.jp/cam/now/111265001.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.6080556&clon=131.4777778&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265001&ownCd=11265&sysCamId=11265001",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265008",
+      "position": [
+        33.4952778,
+        131.5563889
+      ],
+      "title": "桂川 角石橋",
+      "URL": "https://cam.river.go.jp/cam/now/111265008.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.4952778&clon=131.5563889&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265008&ownCd=11265&sysCamId=11265008",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265065",
+      "position": [
+        33.4319254,
+        131.6487426
+      ],
+      "title": "江頭川 新山中橋",
+      "URL": "https://cam.river.go.jp/cam/now/111265065.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.4319254&clon=131.6487426&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265065&ownCd=11265&sysCamId=11265065",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265066",
+      "position": [
+        33.4491389,
+        131.5093056
+      ],
+      "title": "八坂川 神潮橋",
+      "URL": "https://cam.river.go.jp/cam/now/111265066.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.4491389&clon=131.5093056&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265066&ownCd=11265&sysCamId=11265066",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265058",
+      "position": [
+        33.4322222,
+        131.3727778
+      ],
+      "title": "駅館川 上荘橋",
+      "URL": "https://cam.river.go.jp/cam/now/111265058.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.4322222&clon=131.3727778&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265058&ownCd=11265&sysCamId=11265058",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265121",
+      "position": [
+        33.5254292,
+        131.3653654
+      ],
+      "title": "寄藻川 上町橋",
+      "URL": "https://cam.river.go.jp/cam/now/111265121.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.5254292&clon=131.3653654&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265121&ownCd=11265&sysCamId=11265121",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265057",
+      "position": [
+        33.5347222,
+        131.4091667
+      ],
+      "title": "寄藻川 玄川大橋",
+      "URL": "https://cam.river.go.jp/cam/now/111265057.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.5347222&clon=131.4091667&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265057&ownCd=11265&sysCamId=11265057",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265097",
+      "position": [
+        32.96425,
+        131.6110833
+      ],
+      "title": "大野川 小屋園橋",
+      "URL": "https://cam.river.go.jp/cam/now/111265097.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=32.96425&clon=131.6110833&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265097&ownCd=11265&sysCamId=11265097",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265099",
+      "position": [
+        33.0387222,
+        131.4846389
+      ],
+      "title": "大野川 門前橋",
+      "URL": "https://cam.river.go.jp/cam/now/111265099.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.0387222&clon=131.4846389&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265099&ownCd=11265&sysCamId=11265099",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265024",
+      "position": [
+        33.2413889,
+        131.3233333
+      ],
+      "title": "大分川 大分川平川",
+      "URL": "https://cam.river.go.jp/cam/now/111265024.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.2413889&clon=131.3233333&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265024&ownCd=11265&sysCamId=11265024",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_122835074",
+      "position": [
+        33.195,
+        131.5119444
+      ],
+      "title": "大分川 １８ｋ００Ｒ同尻",
+      "URL": "https://cam.river.go.jp/cam/now/122835074.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.195&clon=131.5119444&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=122835074&ownCd=22835&sysCamId=22835074",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265076",
+      "position": [
+        33.1988333,
+        131.5161944
+      ],
+      "title": "大分川 黒川橋",
+      "URL": "https://cam.river.go.jp/cam/now/111265076.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.1988333&clon=131.5161944&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265076&ownCd=11265&sysCamId=11265076",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265080",
+      "position": [
+        33.1930833,
+        131.341
+      ],
+      "title": "大分川 ひらばる橋",
+      "URL": "https://cam.river.go.jp/cam/now/111265080.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.1930833&clon=131.341&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265080&ownCd=11265&sysCamId=11265080",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265077",
+      "position": [
+        33.2710556,
+        131.3542778
+      ],
+      "title": "大分川 倉谷橋",
+      "URL": "https://cam.river.go.jp/cam/now/111265077.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.2710556&clon=131.3542778&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265077&ownCd=11265&sysCamId=11265077",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265074",
+      "position": [
+        33.2697222,
+        131.3635
+      ],
+      "title": "大分川 上中島橋",
+      "URL": "https://cam.river.go.jp/cam/now/111265074.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.2697222&clon=131.3635&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265074&ownCd=11265&sysCamId=11265074",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265075",
+      "position": [
+        33.2530556,
+        131.3313889
+      ],
+      "title": "大分川 地蔵橋",
+      "URL": "https://cam.river.go.jp/cam/now/111265075.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.2530556&clon=131.3313889&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265075&ownCd=11265&sysCamId=11265075",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265062",
+      "position": [
+        33.6647778,
+        131.6264167
+      ],
+      "title": "岐部川 大日橋",
+      "URL": "https://cam.river.go.jp/cam/now/111265062.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.6647778&clon=131.6264167&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265062&ownCd=11265&sysCamId=11265062",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265115",
+      "position": [
+        33.6312193,
+        131.6624452
+      ],
+      "title": "来浦川 鶴川橋",
+      "URL": "https://cam.river.go.jp/cam/now/111265115.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.6312193&clon=131.6624452&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265115&ownCd=11265&sysCamId=11265115",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265005",
+      "position": [
+        33.4627778,
+        131.6941667
+      ],
+      "title": "安岐川 西本橋",
+      "URL": "https://cam.river.go.jp/cam/now/111265005.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.4627778&clon=131.6941667&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265005&ownCd=11265&sysCamId=11265005",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265067",
+      "position": [
+        33.3670556,
+        131.5485
+      ],
+      "title": "金井田川 川崎橋",
+      "URL": "https://cam.river.go.jp/cam/now/111265067.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.3670556&clon=131.5485&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265067&ownCd=11265&sysCamId=11265067",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265046",
+      "position": [
+        33.2272222,
+        131.2111111
+      ],
+      "title": "筑後川 寺田橋",
+      "URL": "https://cam.river.go.jp/cam/now/111265046.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.2272222&clon=131.2111111&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265046&ownCd=11265&sysCamId=11265046",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265110",
+      "position": [
+        33.2221944,
+        131.2660556
+      ],
+      "title": "筑後川 滝上第三橋",
+      "URL": "https://cam.river.go.jp/cam/now/111265110.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.2221944&clon=131.2660556&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265110&ownCd=11265&sysCamId=11265110",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265045",
+      "position": [
+        33.1930556,
+        131.1547222
+      ],
+      "title": "筑後川 第一桐木橋",
+      "URL": "https://cam.river.go.jp/cam/now/111265045.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.1930556&clon=131.1547222&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265045&ownCd=11265&sysCamId=11265045",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265109",
+      "position": [
+        33.2207222,
+        131.1754444
+      ],
+      "title": "筑後川 佃橋",
+      "URL": "https://cam.river.go.jp/cam/now/111265109.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.2207222&clon=131.1754444&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265109&ownCd=11265&sysCamId=11265109",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265111",
+      "position": [
+        33.25625,
+        131.1756667
+      ],
+      "title": "筑後川 団子橋",
+      "URL": "https://cam.river.go.jp/cam/now/111265111.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.25625&clon=131.1756667&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265111&ownCd=11265&sysCamId=11265111",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265112",
+      "position": [
+        33.2131322,
+        131.171173
+      ],
+      "title": "筑後川 柚之木橋",
+      "URL": "https://cam.river.go.jp/cam/now/111265112.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.2131322&clon=131.171173&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265112&ownCd=11265&sysCamId=11265112",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265113",
+      "position": [
+        33.1831389,
+        131.1628333
+      ],
+      "title": "筑後川 梶屋橋",
+      "URL": "https://cam.river.go.jp/cam/now/111265113.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.1831389&clon=131.1628333&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265113&ownCd=11265&sysCamId=11265113",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265108",
+      "position": [
+        33.2588056,
+        131.0691389
+      ],
+      "title": "筑後川 杉河内新橋",
+      "URL": "https://cam.river.go.jp/cam/now/111265108.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.2588056&clon=131.0691389&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265108&ownCd=11265&sysCamId=11265108",
+      "pref": "大分県"
+    },
+    {
+      "id": "river_111265043",
+      "position": [
+        33.2916667,
+        131.1580556
+      ],
+      "title": "筑後川 森川橋",
+      "URL": "https://cam.river.go.jp/cam/now/111265043.jpg",
+      "iconClass": "fa-solid fa-water",
+      "platform": "mlit kawanobosai",
+      "src": "https://www.river.go.jp/kawabou/mb/tm?zm=15&clat=33.2916667&clon=131.1580556&fld=0&mapType=0&viewGrpStg=0&viewRd=1&viewRW=1&viewRiver=1&viewPoint=1&ext=0&itmkndCd=200&scamId=111265043&ownCd=11265&sysCamId=11265043",
+      "pref": "大分県"
     }
   ]
 }
